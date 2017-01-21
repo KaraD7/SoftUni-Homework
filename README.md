@@ -1,5 +1,3 @@
 # SoftUni-Homework
 Programming Fundamentals homeworks
-GitBash two
-git 
-git
+GitBash second changed from github
