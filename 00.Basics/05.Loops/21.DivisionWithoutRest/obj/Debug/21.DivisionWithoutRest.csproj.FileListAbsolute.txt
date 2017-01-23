@@ -1,6 +1,0 @@
-C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\21.DivisionWithoutRest\bin\Debug\21.DivisionWithoutRest.exe.config
-C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\21.DivisionWithoutRest\bin\Debug\21.DivisionWithoutRest.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\21.DivisionWithoutRest\bin\Debug\21.DivisionWithoutRest.pdb
-C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\21.DivisionWithoutRest\obj\Debug\21.DivisionWithoutRest.csprojResolveAssemblyReference.cache
-C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\21.DivisionWithoutRest\obj\Debug\21.DivisionWithoutRest.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\21.DivisionWithoutRest\obj\Debug\21.DivisionWithoutRest.pdb

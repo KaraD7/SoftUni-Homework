@@ -1,5 +1,0 @@
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\10.AnimalType\bin\Debug\10.AnimalType.exe.config
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\10.AnimalType\bin\Debug\10.AnimalType.exe
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\10.AnimalType\bin\Debug\10.AnimalType.pdb
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\10.AnimalType\obj\Debug\10.AnimalType.exe
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\10.AnimalType\obj\Debug\10.AnimalType.pdb

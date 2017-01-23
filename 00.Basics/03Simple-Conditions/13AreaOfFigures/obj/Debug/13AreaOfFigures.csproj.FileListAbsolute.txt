@@ -1,5 +1,0 @@
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\13AreaOfFigures\bin\Debug\13AreaOfFigures.exe.config
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\13AreaOfFigures\bin\Debug\13AreaOfFigures.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\13AreaOfFigures\bin\Debug\13AreaOfFigures.pdb
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\13AreaOfFigures\obj\Debug\13AreaOfFigures.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\13AreaOfFigures\obj\Debug\13AreaOfFigures.pdb

@@ -1,9 +1,0 @@
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\02.Bricks\bin\Debug\02.Bricks.exe.config
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\02.Bricks\bin\Debug\02.Bricks.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\02.Bricks\bin\Debug\02.Bricks.pdb
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\02.Bricks\obj\Debug\02.Bricks.csprojResolveAssemblyReference.cache
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\02.Bricks\obj\Debug\02.Bricks.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\02.Bricks\obj\Debug\02.Bricks.pdb
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\02.Bricks\bin\Debug\02.Bricks.exe.config
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\02.Bricks\obj\Debug\02.Bricks.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\02.Bricks\obj\Debug\02.Bricks.pdb

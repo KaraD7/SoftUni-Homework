@@ -1,5 +1,0 @@
-c:\users\kara4\documents\visual studio 2015\Projects\05.Loops\03.LatinLetters\bin\Debug\03.LatinLetters.exe.config
-c:\users\kara4\documents\visual studio 2015\Projects\05.Loops\03.LatinLetters\bin\Debug\03.LatinLetters.exe
-c:\users\kara4\documents\visual studio 2015\Projects\05.Loops\03.LatinLetters\bin\Debug\03.LatinLetters.pdb
-c:\users\kara4\documents\visual studio 2015\Projects\05.Loops\03.LatinLetters\obj\Debug\03.LatinLetters.exe
-c:\users\kara4\documents\visual studio 2015\Projects\05.Loops\03.LatinLetters\obj\Debug\03.LatinLetters.pdb

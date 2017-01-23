@@ -1,6 +1,0 @@
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\11.Increasing4Numbers\bin\Debug\11.Increasing4Numbers.exe.config
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\11.Increasing4Numbers\bin\Debug\11.Increasing4Numbers.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\11.Increasing4Numbers\bin\Debug\11.Increasing4Numbers.pdb
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\11.Increasing4Numbers\obj\Debug\11.Increasing4Numbers.csprojResolveAssemblyReference.cache
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\11.Increasing4Numbers\obj\Debug\11.Increasing4Numbers.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\11.Increasing4Numbers\obj\Debug\11.Increasing4Numbers.pdb

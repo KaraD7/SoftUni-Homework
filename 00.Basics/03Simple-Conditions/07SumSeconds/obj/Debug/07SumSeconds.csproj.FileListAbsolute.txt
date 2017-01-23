@@ -1,6 +1,0 @@
-c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\07SumSeconds\bin\Debug\07SumSeconds.exe.config
-c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\07SumSeconds\bin\Debug\07SumSeconds.exe
-c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\07SumSeconds\bin\Debug\07SumSeconds.pdb
-c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\07SumSeconds\obj\Debug\07SumSeconds.csprojResolveAssemblyReference.cache
-c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\07SumSeconds\obj\Debug\07SumSeconds.exe
-c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\07SumSeconds\obj\Debug\07SumSeconds.pdb

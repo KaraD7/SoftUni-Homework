@@ -1,6 +1,0 @@
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\01.BlockFixMain\bin\Debug\01.BlockFixMain.exe.config
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\01.BlockFixMain\bin\Debug\01.BlockFixMain.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\01.BlockFixMain\bin\Debug\01.BlockFixMain.pdb
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\01.BlockFixMain\obj\Debug\01.BlockFixMain.csprojResolveAssemblyReference.cache
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\01.BlockFixMain\obj\Debug\01.BlockFixMain.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\01.BlockFixMain\obj\Debug\01.BlockFixMain.pdb

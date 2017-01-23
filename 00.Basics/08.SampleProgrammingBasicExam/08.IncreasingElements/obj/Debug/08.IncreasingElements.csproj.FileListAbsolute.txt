@@ -1,6 +1,0 @@
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\08.IncreasingElements\bin\Debug\08.IncreasingElements.exe.config
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\08.IncreasingElements\bin\Debug\08.IncreasingElements.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\08.IncreasingElements\bin\Debug\08.IncreasingElements.pdb
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\08.IncreasingElements\obj\Debug\08.IncreasingElements.csprojResolveAssemblyReference.cache
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\08.IncreasingElements\obj\Debug\08.IncreasingElements.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\08.IncreasingElements\obj\Debug\08.IncreasingElements.pdb

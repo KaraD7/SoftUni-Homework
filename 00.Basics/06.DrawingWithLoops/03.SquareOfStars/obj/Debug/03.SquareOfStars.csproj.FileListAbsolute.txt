@@ -1,6 +1,0 @@
-c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe.config
-c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.exe
-c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\03.SquareOfStars\bin\Debug\03.SquareOfStars.pdb
-c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.csprojResolveAssemblyReference.cache
-c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.exe
-c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\03.SquareOfStars\obj\Debug\03.SquareOfStars.pdb

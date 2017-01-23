@@ -1,6 +1,0 @@
-C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\05.DrawFort\bin\Debug\05.DrawFort.exe.config
-C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\05.DrawFort\bin\Debug\05.DrawFort.exe
-C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\05.DrawFort\bin\Debug\05.DrawFort.pdb
-C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\05.DrawFort\obj\Debug\05.DrawFort.csprojResolveAssemblyReference.cache
-C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\05.DrawFort\obj\Debug\05.DrawFort.exe
-C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\05.DrawFort\obj\Debug\05.DrawFort.pdb

@@ -1,6 +1,0 @@
-C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe.config
-C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\08.OddEvenSum\bin\Debug\08.OddEvenSum.exe
-C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\08.OddEvenSum\bin\Debug\08.OddEvenSum.pdb
-C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\08.OddEvenSum\obj\Debug\08.OddEvenSum.csprojResolveAssemblyReference.cache
-C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\08.OddEvenSum\obj\Debug\08.OddEvenSum.exe
-C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\08.OddEvenSum\obj\Debug\08.OddEvenSum.pdb

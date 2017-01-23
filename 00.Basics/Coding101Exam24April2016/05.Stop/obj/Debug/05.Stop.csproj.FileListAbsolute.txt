@@ -1,6 +1,0 @@
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\05.Stop\bin\Debug\05.Stop.exe.config
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\05.Stop\bin\Debug\05.Stop.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\05.Stop\bin\Debug\05.Stop.pdb
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\05.Stop\obj\Debug\05.Stop.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\05.Stop\obj\Debug\05.Stop.pdb
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\05.Stop\obj\Debug\05.Stop.csprojResolveAssemblyReference.cache

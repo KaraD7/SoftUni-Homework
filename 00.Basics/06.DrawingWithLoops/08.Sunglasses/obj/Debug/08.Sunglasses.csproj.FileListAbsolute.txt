@@ -1,6 +1,0 @@
-C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.exe.config
-C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\08.Sunglasses\bin\Debug\08.Sunglasses.pdb
-C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.csprojResolveAssemblyReference.cache
-C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\08.Sunglasses\obj\Debug\08.Sunglasses.pdb

@@ -1,6 +1,0 @@
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\05.InvalidNumber\bin\Debug\05.InvalidNumber.exe.config
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\05.InvalidNumber\bin\Debug\05.InvalidNumber.exe
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\05.InvalidNumber\bin\Debug\05.InvalidNumber.pdb
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\05.InvalidNumber\obj\Debug\05.InvalidNumber.csprojResolveAssemblyReference.cache
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\05.InvalidNumber\obj\Debug\05.InvalidNumber.exe
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\05.InvalidNumber\obj\Debug\05.InvalidNumber.pdb

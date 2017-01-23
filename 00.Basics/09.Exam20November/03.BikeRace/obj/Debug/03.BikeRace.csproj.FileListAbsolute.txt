@@ -1,6 +1,0 @@
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\03.BikeRace\bin\Debug\03.BikeRace.exe.config
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\03.BikeRace\bin\Debug\03.BikeRace.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\03.BikeRace\bin\Debug\03.BikeRace.pdb
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\03.BikeRace\obj\Debug\03.BikeRace.csprojResolveAssemblyReference.cache
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\03.BikeRace\obj\Debug\03.BikeRace.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\03.BikeRace\obj\Debug\03.BikeRace.pdb

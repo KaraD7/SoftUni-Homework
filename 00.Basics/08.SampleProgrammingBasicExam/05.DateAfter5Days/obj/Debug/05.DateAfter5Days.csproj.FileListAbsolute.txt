@@ -1,6 +1,0 @@
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.exe.config
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\05.DateAfter5Days\bin\Debug\05.DateAfter5Days.pdb
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.csprojResolveAssemblyReference.cache
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\05.DateAfter5Days\obj\Debug\05.DateAfter5Days.pdb

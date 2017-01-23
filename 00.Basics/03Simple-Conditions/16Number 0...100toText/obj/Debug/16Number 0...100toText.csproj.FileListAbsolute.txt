@@ -1,5 +1,0 @@
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\16Number 0...100toText\bin\Debug\_16Number_0._._._100toText.exe.config
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\16Number 0...100toText\bin\Debug\_16Number_0._._._100toText.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\16Number 0...100toText\bin\Debug\_16Number_0._._._100toText.pdb
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\16Number 0...100toText\obj\Debug\_16Number_0._._._100toText.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\16Number 0...100toText\obj\Debug\_16Number_0._._._100toText.pdb

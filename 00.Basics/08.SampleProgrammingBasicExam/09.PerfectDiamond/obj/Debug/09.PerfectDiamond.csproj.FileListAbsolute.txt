@@ -1,6 +1,0 @@
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\09.PerfectDiamond\bin\Debug\09.PerfectDiamond.exe.config
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\09.PerfectDiamond\bin\Debug\09.PerfectDiamond.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\09.PerfectDiamond\bin\Debug\09.PerfectDiamond.pdb
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\09.PerfectDiamond\obj\Debug\09.PerfectDiamond.csprojResolveAssemblyReference.cache
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\09.PerfectDiamond\obj\Debug\09.PerfectDiamond.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\09.PerfectDiamond\obj\Debug\09.PerfectDiamond.pdb

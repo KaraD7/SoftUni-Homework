@@ -1,6 +1,0 @@
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\12.GeneratingRectangles\bin\Debug\12.GeneratingRectangles.exe.config
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\12.GeneratingRectangles\bin\Debug\12.GeneratingRectangles.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\12.GeneratingRectangles\bin\Debug\12.GeneratingRectangles.pdb
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\12.GeneratingRectangles\obj\Debug\12.GeneratingRectangles.csprojResolveAssemblyReference.cache
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\12.GeneratingRectangles\obj\Debug\12.GeneratingRectangles.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\12.GeneratingRectangles\obj\Debug\12.GeneratingRectangles.pdb

@@ -1,9 +1,0 @@
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\03.DotInsideALine\bin\Debug\03.DotInsideALine.exe.config
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\03.DotInsideALine\bin\Debug\03.DotInsideALine.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\03.DotInsideALine\bin\Debug\03.DotInsideALine.pdb
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\03.DotInsideALine\obj\Debug\03.DotInsideALine.csprojResolveAssemblyReference.cache
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\03.DotInsideALine\obj\Debug\03.DotInsideALine.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\03.DotInsideALine\obj\Debug\03.DotInsideALine.pdb
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\03.DotInsideALine\bin\Debug\03.DotInsideALine.exe.config
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\03.DotInsideALine\obj\Debug\03.DotInsideALine.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\03.DotInsideALine\obj\Debug\03.DotInsideALine.pdb

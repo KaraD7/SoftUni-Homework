@@ -1,6 +1,0 @@
-c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\05Number09ToText\bin\Debug\05Number09ToText.exe.config
-c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\05Number09ToText\bin\Debug\05Number09ToText.exe
-c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\05Number09ToText\bin\Debug\05Number09ToText.pdb
-c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\05Number09ToText\obj\Debug\05Number09ToText.csprojResolveAssemblyReference.cache
-c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\05Number09ToText\obj\Debug\05Number09ToText.exe
-c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\05Number09ToText\obj\Debug\05Number09ToText.pdb

@@ -1,6 +1,0 @@
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\01.HousePrice\bin\Debug\01.HousePrice.exe.config
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\01.HousePrice\obj\Debug\01.HousePrice.csprojResolveAssemblyReference.cache
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\01.HousePrice\bin\Debug\01.HousePrice.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\01.HousePrice\bin\Debug\01.HousePrice.pdb
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\01.HousePrice\obj\Debug\01.HousePrice.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\01.HousePrice\obj\Debug\01.HousePrice.pdb

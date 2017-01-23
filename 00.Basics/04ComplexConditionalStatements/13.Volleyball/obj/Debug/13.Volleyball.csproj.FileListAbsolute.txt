@@ -1,6 +1,0 @@
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\13.Volleyball\bin\Debug\13.Volleyball.exe.config
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\13.Volleyball\bin\Debug\13.Volleyball.exe
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\13.Volleyball\bin\Debug\13.Volleyball.pdb
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\13.Volleyball\obj\Debug\13.Volleyball.csprojResolveAssemblyReference.cache
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\13.Volleyball\obj\Debug\13.Volleyball.exe
-c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\13.Volleyball\obj\Debug\13.Volleyball.pdb

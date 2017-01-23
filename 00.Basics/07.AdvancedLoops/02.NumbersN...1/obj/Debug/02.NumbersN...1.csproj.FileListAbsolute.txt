@@ -1,5 +1,0 @@
-c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\02.NumbersN...1\bin\Debug\_02.NumbersN._._._1.exe.config
-c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\02.NumbersN...1\bin\Debug\_02.NumbersN._._._1.exe
-c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\02.NumbersN...1\bin\Debug\_02.NumbersN._._._1.pdb
-c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\02.NumbersN...1\obj\Debug\_02.NumbersN._._._1.exe
-c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\02.NumbersN...1\obj\Debug\_02.NumbersN._._._1.pdb

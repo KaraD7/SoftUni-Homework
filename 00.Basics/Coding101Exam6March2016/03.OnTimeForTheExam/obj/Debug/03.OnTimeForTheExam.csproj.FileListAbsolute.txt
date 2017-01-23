@@ -1,6 +1,0 @@
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\03.OnTimeForTheExam\bin\Debug\03.OnTimeForTheExam.exe.config
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\03.OnTimeForTheExam\bin\Debug\03.OnTimeForTheExam.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\03.OnTimeForTheExam\bin\Debug\03.OnTimeForTheExam.pdb
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\03.OnTimeForTheExam\obj\Debug\03.OnTimeForTheExam.csprojResolveAssemblyReference.cache
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\03.OnTimeForTheExam\obj\Debug\03.OnTimeForTheExam.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\03.OnTimeForTheExam\obj\Debug\03.OnTimeForTheExam.pdb

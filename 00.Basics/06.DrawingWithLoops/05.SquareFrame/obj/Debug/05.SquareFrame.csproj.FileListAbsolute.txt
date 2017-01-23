@@ -1,6 +1,0 @@
-c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe.config
-C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\05.SquareFrame\bin\Debug\05.SquareFrame.pdb
-C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.csprojResolveAssemblyReference.cache
-C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\05.SquareFrame\obj\Debug\05.SquareFrame.pdb

@@ -1,6 +1,0 @@
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\01.TrainingLlab\bin\Debug\01.TrainingLlab.exe.config
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\01.TrainingLlab\bin\Debug\01.TrainingLlab.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\01.TrainingLlab\bin\Debug\01.TrainingLlab.pdb
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\01.TrainingLlab\obj\Debug\01.TrainingLlab.csprojResolveAssemblyReference.cache
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\01.TrainingLlab\obj\Debug\01.TrainingLlab.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\01.TrainingLlab\obj\Debug\01.TrainingLlab.pdb

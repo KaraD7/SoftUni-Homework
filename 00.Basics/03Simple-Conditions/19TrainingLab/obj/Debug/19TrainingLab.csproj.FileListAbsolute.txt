@@ -1,6 +1,0 @@
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\19TrainingLab\bin\Debug\19TrainingLab.exe.config
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\19TrainingLab\obj\Debug\19TrainingLab.csprojResolveAssemblyReference.cache
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\19TrainingLab\bin\Debug\19TrainingLab.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\19TrainingLab\bin\Debug\19TrainingLab.pdb
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\19TrainingLab\obj\Debug\19TrainingLab.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\19TrainingLab\obj\Debug\19TrainingLab.pdb

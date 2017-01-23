@@ -1,5 +1,0 @@
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\14Time+15Minutes\bin\Debug\14Time+15Minutes.exe.config
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\14Time+15Minutes\bin\Debug\14Time+15Minutes.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\14Time+15Minutes\bin\Debug\14Time+15Minutes.pdb
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\14Time+15Minutes\obj\Debug\14Time+15Minutes.exe
-C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\14Time+15Minutes\obj\Debug\14Time+15Minutes.pdb

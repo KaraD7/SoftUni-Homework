@@ -1,6 +1,0 @@
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\06.SumOFThreeNumbers\bin\Debug\06.SumOFThreeNumbers.exe.config
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\06.SumOFThreeNumbers\bin\Debug\06.SumOFThreeNumbers.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\06.SumOFThreeNumbers\bin\Debug\06.SumOFThreeNumbers.pdb
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\06.SumOFThreeNumbers\obj\Debug\06.SumOFThreeNumbers.csprojResolveAssemblyReference.cache
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\06.SumOFThreeNumbers\obj\Debug\06.SumOFThreeNumbers.exe
-C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\06.SumOFThreeNumbers\obj\Debug\06.SumOFThreeNumbers.pdb

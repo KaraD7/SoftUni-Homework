@@ -1,6 +1,0 @@
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Exam - 17 July 2016\02.Harvest\bin\Debug\02.Harvest.exe.config
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Exam - 17 July 2016\02.Harvest\bin\Debug\02.Harvest.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Exam - 17 July 2016\02.Harvest\bin\Debug\02.Harvest.pdb
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Exam - 17 July 2016\02.Harvest\obj\Debug\02.Harvest.csprojResolveAssemblyReference.cache
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Exam - 17 July 2016\02.Harvest\obj\Debug\02.Harvest.exe
-c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Exam - 17 July 2016\02.Harvest\obj\Debug\02.Harvest.pdb
