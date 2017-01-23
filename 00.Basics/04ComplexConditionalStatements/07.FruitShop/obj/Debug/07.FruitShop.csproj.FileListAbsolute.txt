@@ -1,0 +1,6 @@
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\07.FruitShop\bin\Debug\07.FruitShop.exe.config
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\07.FruitShop\bin\Debug\07.FruitShop.exe
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\07.FruitShop\bin\Debug\07.FruitShop.pdb
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\07.FruitShop\obj\Debug\07.FruitShop.csprojResolveAssemblyReference.cache
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\07.FruitShop\obj\Debug\07.FruitShop.exe
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\07.FruitShop\obj\Debug\07.FruitShop.pdb

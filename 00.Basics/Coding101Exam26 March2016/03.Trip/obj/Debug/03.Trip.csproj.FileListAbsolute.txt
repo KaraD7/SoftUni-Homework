@@ -1,0 +1,6 @@
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam26 March2016\03.Trip\bin\Debug\03.Trip.exe.config
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam26 March2016\03.Trip\bin\Debug\03.Trip.exe
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam26 March2016\03.Trip\bin\Debug\03.Trip.pdb
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam26 March2016\03.Trip\obj\Debug\03.Trip.exe
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam26 March2016\03.Trip\obj\Debug\03.Trip.pdb
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam26 March2016\03.Trip\obj\Debug\03.Trip.csprojResolveAssemblyReference.cache

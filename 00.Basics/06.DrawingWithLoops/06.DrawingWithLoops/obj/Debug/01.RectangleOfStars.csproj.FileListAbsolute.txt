@@ -1,0 +1,6 @@
+c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\06.DrawingWithLoops\bin\Debug\06.DrawingWithLoops.exe.config
+c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\06.DrawingWithLoops\bin\Debug\06.DrawingWithLoops.exe
+c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\06.DrawingWithLoops\bin\Debug\06.DrawingWithLoops.pdb
+c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\06.DrawingWithLoops\obj\Debug\01.RectangleOfStars.csprojResolveAssemblyReference.cache
+c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\06.DrawingWithLoops\obj\Debug\06.DrawingWithLoops.exe
+c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\06.DrawingWithLoops\obj\Debug\06.DrawingWithLoops.pdb

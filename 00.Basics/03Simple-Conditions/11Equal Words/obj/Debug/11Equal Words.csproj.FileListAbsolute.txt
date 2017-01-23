@@ -1,0 +1,6 @@
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\11Equal Words\bin\Debug\11Equal Words.exe.config
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\11Equal Words\bin\Debug\11Equal Words.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\11Equal Words\bin\Debug\11Equal Words.pdb
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\11Equal Words\obj\Debug\11Equal Words.csprojResolveAssemblyReference.cache
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\11Equal Words\obj\Debug\11Equal Words.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\11Equal Words\obj\Debug\11Equal Words.pdb

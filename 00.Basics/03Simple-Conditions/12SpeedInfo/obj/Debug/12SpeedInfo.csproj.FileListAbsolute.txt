@@ -1,0 +1,5 @@
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\12SpeedInfo\bin\Debug\12SpeedInfo.exe.config
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\12SpeedInfo\bin\Debug\12SpeedInfo.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\12SpeedInfo\bin\Debug\12SpeedInfo.pdb
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\12SpeedInfo\obj\Debug\12SpeedInfo.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\12SpeedInfo\obj\Debug\12SpeedInfo.pdb

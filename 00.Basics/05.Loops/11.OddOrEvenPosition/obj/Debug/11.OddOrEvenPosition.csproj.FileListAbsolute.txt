@@ -1,0 +1,6 @@
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\11.OddOrEvenPosition\bin\Debug\11.OddOrEvenPosition.exe.config
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\11.OddOrEvenPosition\bin\Debug\11.OddOrEvenPosition.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\11.OddOrEvenPosition\bin\Debug\11.OddOrEvenPosition.pdb
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\11.OddOrEvenPosition\obj\Debug\11.OddOrEvenPosition.csprojResolveAssemblyReference.cache
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\11.OddOrEvenPosition\obj\Debug\11.OddOrEvenPosition.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\11.OddOrEvenPosition\obj\Debug\11.OddOrEvenPosition.pdb

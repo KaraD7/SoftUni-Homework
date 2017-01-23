@@ -1,0 +1,6 @@
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\03.PowersOfTwo\bin\Debug\03.PowersOfTwo.exe.config
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\03.PowersOfTwo\bin\Debug\03.PowersOfTwo.exe
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\03.PowersOfTwo\bin\Debug\03.PowersOfTwo.pdb
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\03.PowersOfTwo\obj\Debug\03.PowersOfTwo.exe
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\03.PowersOfTwo\obj\Debug\03.PowersOfTwo.pdb
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\03.PowersOfTwo\obj\Debug\03.PowersOfTwo.csprojResolveAssemblyReference.cache

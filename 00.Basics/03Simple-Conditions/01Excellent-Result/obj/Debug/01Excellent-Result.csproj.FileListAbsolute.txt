@@ -1,0 +1,6 @@
+c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\01Excellent-Result\bin\Debug\01Excellent-Result.exe.config
+c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\01Excellent-Result\bin\Debug\01Excellent-Result.exe
+c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\01Excellent-Result\bin\Debug\01Excellent-Result.pdb
+c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\01Excellent-Result\obj\Debug\01Excellent-Result.csprojResolveAssemblyReference.cache
+c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\01Excellent-Result\obj\Debug\01Excellent-Result.exe
+c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\01Excellent-Result\obj\Debug\01Excellent-Result.pdb

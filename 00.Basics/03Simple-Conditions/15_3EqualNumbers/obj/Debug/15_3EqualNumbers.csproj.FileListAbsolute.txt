@@ -1,0 +1,6 @@
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\15_3EqualNumbers\bin\Debug\15_3EqualNumbers.exe.config
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\15_3EqualNumbers\bin\Debug\15_3EqualNumbers.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\15_3EqualNumbers\bin\Debug\15_3EqualNumbers.pdb
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\15_3EqualNumbers\obj\Debug\15_3EqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\15_3EqualNumbers\obj\Debug\15_3EqualNumbers.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\15_3EqualNumbers\obj\Debug\15_3EqualNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\04.Logistics\bin\Debug\04.Logistics.exe.config
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\04.Logistics\bin\Debug\04.Logistics.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\04.Logistics\bin\Debug\04.Logistics.pdb
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\04.Logistics\obj\Debug\04.Logistics.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\04.Logistics\obj\Debug\04.Logistics.pdb
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\04.Logistics\obj\Debug\04.Logistics.csprojResolveAssemblyReference.cache

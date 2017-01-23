@@ -1,0 +1,6 @@
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\02.SleepyTomCat\bin\Debug\02.SleepyTomCat.exe.config
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\02.SleepyTomCat\obj\Debug\02.SleepyTomCat.csprojResolveAssemblyReference.cache
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\02.SleepyTomCat\bin\Debug\02.SleepyTomCat.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\02.SleepyTomCat\bin\Debug\02.SleepyTomCat.pdb
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\02.SleepyTomCat\obj\Debug\02.SleepyTomCat.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\02.SleepyTomCat\obj\Debug\02.SleepyTomCat.pdb

@@ -1,0 +1,9 @@
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\04ComplexConditionalStatements\11.PointAndRectangle\bin\Debug\11.PointAndRectangle.exe.config
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\04ComplexConditionalStatements\11.PointAndRectangle\bin\Debug\11.PointAndRectangle.exe
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\04ComplexConditionalStatements\11.PointAndRectangle\bin\Debug\11.PointAndRectangle.pdb
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\04ComplexConditionalStatements\11.PointAndRectangle\obj\Debug\11.PointAndRectangle.csprojResolveAssemblyReference.cache
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\04ComplexConditionalStatements\11.PointAndRectangle\obj\Debug\_11.PointAndRectangle.FormPointAndRectangle.resources
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\04ComplexConditionalStatements\11.PointAndRectangle\obj\Debug\_11.PointAndRectangle.Properties.Resources.resources
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\04ComplexConditionalStatements\11.PointAndRectangle\obj\Debug\11.PointAndRectangle.csproj.GenerateResource.Cache
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\04ComplexConditionalStatements\11.PointAndRectangle\obj\Debug\11.PointAndRectangle.exe
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\04ComplexConditionalStatements\11.PointAndRectangle\obj\Debug\11.PointAndRectangle.pdb

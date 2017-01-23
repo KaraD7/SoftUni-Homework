@@ -1,0 +1,6 @@
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\04.EvenPowersОf2\bin\Debug\04.EvenPowersОf2.exe.config
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\04.EvenPowersОf2\bin\Debug\04.EvenPowersОf2.exe
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\04.EvenPowersОf2\bin\Debug\04.EvenPowersОf2.pdb
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\04.EvenPowersОf2\obj\Debug\04.EvenPowersОf2.csprojResolveAssemblyReference.cache
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\04.EvenPowersОf2\obj\Debug\04.EvenPowersОf2.exe
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\04.EvenPowersОf2\obj\Debug\04.EvenPowersОf2.pdb

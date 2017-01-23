@@ -1,0 +1,12 @@
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\04.PointInFigure\bin\Debug\04.PointInFigure.exe.config
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\04.PointInFigure\bin\Debug\04.PointInFigure.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\04.PointInFigure\bin\Debug\04.PointInFigure.pdb
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\04.PointInFigure\obj\Debug\04.PointInFigure.csprojResolveAssemblyReference.cache
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\04.PointInFigure\obj\Debug\04.PointInFigure.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\ExamTrainingTest\04.PointInFigure\obj\Debug\04.PointInFigure.pdb
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\04.PointInFigure\bin\Debug\04.PointInFigure.exe.config
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\04.PointInFigure\obj\Debug\04.PointInFigure.exe
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\04.PointInFigure\obj\Debug\04.PointInFigure.pdb
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\04.PointInFigure\bin\Debug\04.PointInFigure.exe
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\04.PointInFigure\bin\Debug\04.PointInFigure.pdb
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\04.PointInFigure\obj\Debug\04.PointInFigure.csprojResolveAssemblyReference.cache

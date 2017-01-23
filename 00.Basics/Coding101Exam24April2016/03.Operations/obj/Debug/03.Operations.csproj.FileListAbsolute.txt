@@ -1,0 +1,6 @@
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\03.Operations\bin\Debug\03.Operations.exe.config
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\03.Operations\bin\Debug\03.Operations.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\03.Operations\bin\Debug\03.Operations.pdb
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\03.Operations\obj\Debug\03.Operations.csprojResolveAssemblyReference.cache
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\03.Operations\obj\Debug\03.Operations.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\03.Operations\obj\Debug\03.Operations.pdb

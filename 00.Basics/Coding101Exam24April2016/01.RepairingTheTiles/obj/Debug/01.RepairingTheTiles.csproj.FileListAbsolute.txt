@@ -1,0 +1,6 @@
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\01.RepairingTheTiles\bin\Debug\01.RepairingTheTiles.exe.config
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\01.RepairingTheTiles\bin\Debug\01.RepairingTheTiles.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\01.RepairingTheTiles\bin\Debug\01.RepairingTheTiles.pdb
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\01.RepairingTheTiles\obj\Debug\01.RepairingTheTiles.csprojResolveAssemblyReference.cache
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\01.RepairingTheTiles\obj\Debug\01.RepairingTheTiles.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\01.RepairingTheTiles\obj\Debug\01.RepairingTheTiles.pdb

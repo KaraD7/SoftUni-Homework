@@ -1,0 +1,10 @@
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\TurtleGraphics\bin\Debug\TurtleGraphics.exe.config
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\TurtleGraphics\obj\Debug\TurtleGraphics.csprojResolveAssemblyReference.cache
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\TurtleGraphics\obj\Debug\TurtleGraphics.FormTurtleGraphics.resources
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\TurtleGraphics\obj\Debug\TurtleGraphics.Properties.Resources.resources
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\TurtleGraphics\obj\Debug\TurtleGraphics.csproj.GenerateResource.Cache
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\TurtleGraphics\bin\Debug\TurtleGraphics.exe
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\TurtleGraphics\bin\Debug\TurtleGraphics.pdb
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\TurtleGraphics\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\TurtleGraphics\obj\Debug\TurtleGraphics.exe
+C:\Users\kara4\Documents\Visual Studio 2015\Projects\05.Loops\TurtleGraphics\obj\Debug\TurtleGraphics.pdb

@@ -1,0 +1,6 @@
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\17.03SimpleConditNumber100ToText\bin\Debug\17.03SimpleConditNumber100ToText.exe.config
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\17.03SimpleConditNumber100ToText\bin\Debug\17.03SimpleConditNumber100ToText.exe
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\17.03SimpleConditNumber100ToText\bin\Debug\17.03SimpleConditNumber100ToText.pdb
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\17.03SimpleConditNumber100ToText\obj\Debug\17.03SimpleConditNumber100ToText.exe
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\17.03SimpleConditNumber100ToText\obj\Debug\17.03SimpleConditNumber100ToText.pdb
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\17.03SimpleConditNumber100ToText\obj\Debug\17.03SimpleConditNumber100ToText.csprojResolveAssemblyReference.cache

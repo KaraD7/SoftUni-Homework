@@ -1,0 +1,6 @@
+c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\07BonusScore2\bin\Debug\07BonusScore2.exe.config
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\07BonusScore2\bin\Debug\07BonusScore2.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\07BonusScore2\bin\Debug\07BonusScore2.pdb
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\07BonusScore2\obj\Debug\07BonusScore2.csprojResolveAssemblyReference.cache
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\07BonusScore2\obj\Debug\07BonusScore2.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\07BonusScore2\obj\Debug\07BonusScore2.pdb

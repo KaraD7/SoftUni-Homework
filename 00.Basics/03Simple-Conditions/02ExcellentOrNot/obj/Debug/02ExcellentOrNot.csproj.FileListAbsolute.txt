@@ -1,0 +1,5 @@
+c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\02ExcellentOrNot\bin\Debug\02ExcellentOrNot.exe.config
+c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\02ExcellentOrNot\bin\Debug\02ExcellentOrNot.exe
+c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\02ExcellentOrNot\bin\Debug\02ExcellentOrNot.pdb
+c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\02ExcellentOrNot\obj\Debug\02ExcellentOrNot.exe
+c:\users\kara4\documents\visual studio 2015\Projects\03Simple-Conditions\02ExcellentOrNot\obj\Debug\02ExcellentOrNot.pdb

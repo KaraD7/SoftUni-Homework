@@ -1,0 +1,6 @@
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam26 March2016\06.MagicCombination\bin\Debug\06.MagicCombination.exe.config
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam26 March2016\06.MagicCombination\bin\Debug\06.MagicCombination.exe
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam26 March2016\06.MagicCombination\bin\Debug\06.MagicCombination.pdb
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam26 March2016\06.MagicCombination\obj\Debug\06.MagicCombination.csprojResolveAssemblyReference.cache
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam26 March2016\06.MagicCombination\obj\Debug\06.MagicCombination.exe
+C:\Users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam26 March2016\06.MagicCombination\obj\Debug\06.MagicCombination.pdb

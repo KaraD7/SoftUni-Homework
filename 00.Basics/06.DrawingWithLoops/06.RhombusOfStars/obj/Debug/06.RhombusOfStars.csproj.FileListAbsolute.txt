@@ -1,0 +1,6 @@
+C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe.config
+C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\06.RhombusOfStars\bin\Debug\06.RhombusOfStars.pdb
+C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.csprojResolveAssemblyReference.cache
+C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\06.RhombusOfStars\obj\Debug\06.RhombusOfStars.pdb

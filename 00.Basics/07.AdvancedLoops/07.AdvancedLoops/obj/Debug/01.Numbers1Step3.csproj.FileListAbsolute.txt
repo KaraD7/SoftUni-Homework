@@ -1,0 +1,6 @@
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\07.AdvancedLoops\bin\Debug\07.AdvancedLoops.exe.config
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\07.AdvancedLoops\bin\Debug\07.AdvancedLoops.exe
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\07.AdvancedLoops\bin\Debug\07.AdvancedLoops.pdb
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\07.AdvancedLoops\obj\Debug\01.Numbers1Step3.csprojResolveAssemblyReference.cache
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\07.AdvancedLoops\obj\Debug\07.AdvancedLoops.exe
+c:\users\kara4\documents\visual studio 2015\Projects\07.AdvancedLoops\07.AdvancedLoops\obj\Debug\07.AdvancedLoops.pdb

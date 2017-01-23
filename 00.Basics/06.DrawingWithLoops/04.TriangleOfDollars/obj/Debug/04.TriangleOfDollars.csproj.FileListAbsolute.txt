@@ -1,0 +1,5 @@
+c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.exe.config
+c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.exe
+c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\04.TriangleOfDollars\bin\Debug\04.TriangleOfDollars.pdb
+c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\04.TriangleOfDollars\obj\Debug\04.TriangleOfDollars.exe
+c:\users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\04.TriangleOfDollars\obj\Debug\04.TriangleOfDollars.pdb

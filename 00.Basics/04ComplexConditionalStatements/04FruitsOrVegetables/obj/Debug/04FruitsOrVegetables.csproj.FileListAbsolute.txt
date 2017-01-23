@@ -1,0 +1,5 @@
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\04FruitsOrVegetables\bin\Debug\04FruitsOrVegetables.exe.config
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\04FruitsOrVegetables\bin\Debug\04FruitsOrVegetables.exe
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\04FruitsOrVegetables\bin\Debug\04FruitsOrVegetables.pdb
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\04FruitsOrVegetables\obj\Debug\04FruitsOrVegetables.exe
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\04FruitsOrVegetables\obj\Debug\04FruitsOrVegetables.pdb

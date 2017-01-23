@@ -1,0 +1,6 @@
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\08.TradeComissions\bin\Debug\08.TradeComissions.exe.config
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\08.TradeComissions\bin\Debug\08.TradeComissions.exe
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\08.TradeComissions\bin\Debug\08.TradeComissions.pdb
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\08.TradeComissions\obj\Debug\08.TradeComissions.csprojResolveAssemblyReference.cache
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\08.TradeComissions\obj\Debug\08.TradeComissions.exe
+c:\users\kara4\documents\visual studio 2015\Projects\04ComplexConditionalStatements\08.TradeComissions\obj\Debug\08.TradeComissions.pdb

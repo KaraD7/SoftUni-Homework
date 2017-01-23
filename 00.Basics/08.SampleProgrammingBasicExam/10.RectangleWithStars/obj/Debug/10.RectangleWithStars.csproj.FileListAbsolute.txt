@@ -1,0 +1,6 @@
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.exe.config
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.exe
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\10.RectangleWithStars\bin\Debug\10.RectangleWithStars.pdb
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.csprojResolveAssemblyReference.cache
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.exe
+C:\Users\kara4\OneDrive\Documents\Visual Studio 2015\Projects\08.SampleProgrammingBasicExam\10.RectangleWithStars\obj\Debug\10.RectangleWithStars.pdb

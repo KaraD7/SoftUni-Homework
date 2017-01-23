@@ -1,0 +1,6 @@
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\02.TransportPrice\bin\Debug\02.TransportPrice.exe.config
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\02.TransportPrice\bin\Debug\02.TransportPrice.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\02.TransportPrice\bin\Debug\02.TransportPrice.pdb
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\02.TransportPrice\obj\Debug\02.TransportPrice.csprojResolveAssemblyReference.cache
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\02.TransportPrice\obj\Debug\02.TransportPrice.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam6March2016\02.TransportPrice\obj\Debug\02.TransportPrice.pdb

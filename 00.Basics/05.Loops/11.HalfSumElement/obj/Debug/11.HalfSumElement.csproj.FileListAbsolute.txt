@@ -1,0 +1,6 @@
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\11.HalfSumElement\bin\Debug\11.HalfSumElement.exe.config
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\11.HalfSumElement\bin\Debug\11.HalfSumElement.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\11.HalfSumElement\bin\Debug\11.HalfSumElement.pdb
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\11.HalfSumElement\obj\Debug\11.HalfSumElement.csprojResolveAssemblyReference.cache
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\11.HalfSumElement\obj\Debug\11.HalfSumElement.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\11.HalfSumElement\obj\Debug\11.HalfSumElement.pdb

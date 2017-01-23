@@ -1,0 +1,6 @@
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\04.SmartLilly\bin\Debug\04.SmartLilly.exe.config
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\04.SmartLilly\bin\Debug\04.SmartLilly.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\04.SmartLilly\bin\Debug\04.SmartLilly.pdb
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\04.SmartLilly\obj\Debug\04.SmartLilly.csprojResolveAssemblyReference.cache
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\04.SmartLilly\obj\Debug\04.SmartLilly.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\Coding101Exam24April2016\04.SmartLilly\obj\Debug\04.SmartLilly.pdb

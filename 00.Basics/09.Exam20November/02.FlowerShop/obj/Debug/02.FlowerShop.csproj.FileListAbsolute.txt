@@ -1,0 +1,5 @@
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\02.FlowerShop\bin\Debug\02.FlowerShop.exe.config
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\02.FlowerShop\bin\Debug\02.FlowerShop.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\02.FlowerShop\bin\Debug\02.FlowerShop.pdb
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\02.FlowerShop\obj\Debug\02.FlowerShop.exe
+c:\users\kara4\onedrive\documents\visual studio 2015\Projects\09.Exam20November\02.FlowerShop\obj\Debug\02.FlowerShop.pdb

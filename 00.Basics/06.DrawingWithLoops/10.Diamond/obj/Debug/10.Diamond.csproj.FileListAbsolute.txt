@@ -1,0 +1,6 @@
+C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\10.Diamond\bin\Debug\10.Diamond.exe.config
+C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\10.Diamond\bin\Debug\10.Diamond.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\10.Diamond\bin\Debug\10.Diamond.pdb
+C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\10.Diamond\obj\Debug\10.Diamond.csprojResolveAssemblyReference.cache
+C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\10.Diamond\obj\Debug\10.Diamond.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\DrawingWithLoops\10.Diamond\obj\Debug\10.Diamond.pdb

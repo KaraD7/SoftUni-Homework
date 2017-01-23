@@ -1,0 +1,6 @@
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\19.Histogram\bin\Debug\19.Histogram.exe.config
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\19.Histogram\bin\Debug\19.Histogram.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\19.Histogram\bin\Debug\19.Histogram.pdb
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\19.Histogram\obj\Debug\19.Histogram.csprojResolveAssemblyReference.cache
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\19.Histogram\obj\Debug\19.Histogram.exe
+C:\Users\kara4\documents\visual studio 2015\Projects\05.Loops\19.Histogram\obj\Debug\19.Histogram.pdb
