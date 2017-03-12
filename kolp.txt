@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Task 3 from Ex
-=======
-Gitbash second test
->>>>>>> ae4f62034a447e129b9d72ab41772bd70d54c109
