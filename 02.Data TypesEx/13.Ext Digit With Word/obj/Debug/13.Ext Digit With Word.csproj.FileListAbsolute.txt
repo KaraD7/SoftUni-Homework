@@ -1,0 +1,6 @@
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\13.Ext Digit With Word\bin\Debug\13.Ext Digit With Word.exe.config
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\13.Ext Digit With Word\bin\Debug\13.Ext Digit With Word.exe
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\13.Ext Digit With Word\bin\Debug\13.Ext Digit With Word.pdb
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\13.Ext Digit With Word\obj\Debug\13.Ext Digit With Word.csprojResolveAssemblyReference.cache
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\13.Ext Digit With Word\obj\Debug\13.Ext Digit With Word.exe
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\13.Ext Digit With Word\obj\Debug\13.Ext Digit With Word.pdb

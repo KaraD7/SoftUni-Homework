@@ -1,0 +1,6 @@
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\06. Strings And Objects.csprojResolveAssemblyReference.cache
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

@@ -1,0 +1,5 @@
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\14. Extended ASCII String\bin\Debug\_14.Extended_ASCII_String.exe.config
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\14. Extended ASCII String\bin\Debug\_14.Extended_ASCII_String.exe
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\14. Extended ASCII String\bin\Debug\_14.Extended_ASCII_String.pdb
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\14. Extended ASCII String\obj\Debug\_14.Extended_ASCII_String.exe
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\14. Extended ASCII String\obj\Debug\_14.Extended_ASCII_String.pdb

@@ -1,0 +1,5 @@
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\04.VariableInHexFormat\bin\Debug\04.VariableInHexFormat.exe.config
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\04.VariableInHexFormat\bin\Debug\04.VariableInHexFormat.exe
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\04.VariableInHexFormat\bin\Debug\04.VariableInHexFormat.pdb
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\04.VariableInHexFormat\obj\Debug\04.VariableInHexFormat.exe
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\04.VariableInHexFormat\obj\Debug\04.VariableInHexFormat.pdb

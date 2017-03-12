@@ -1,0 +1,6 @@
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\03.ExtExchange Variable Values\bin\Debug\03.ExtExchange Variable Values.exe.config
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\03.ExtExchange Variable Values\bin\Debug\03.ExtExchange Variable Values.exe
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\03.ExtExchange Variable Values\bin\Debug\03.ExtExchange Variable Values.pdb
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\03.ExtExchange Variable Values\obj\Debug\03.ExtExchange Variable Values.csprojResolveAssemblyReference.cache
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\03.ExtExchange Variable Values\obj\Debug\03.ExtExchange Variable Values.exe
+C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\03.ExtExchange Variable Values\obj\Debug\03.ExtExchange Variable Values.pdb
