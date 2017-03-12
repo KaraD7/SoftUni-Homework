@@ -1,5 +1,0 @@
-C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\04.ExtFloat or Integer\bin\Debug\04.ExtFloat or Integer.exe.config
-C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\04.ExtFloat or Integer\bin\Debug\04.ExtFloat or Integer.exe
-C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\04.ExtFloat or Integer\bin\Debug\04.ExtFloat or Integer.pdb
-C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\04.ExtFloat or Integer\obj\Debug\04.ExtFloat or Integer.exe
-C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\04.ExtFloat or Integer\obj\Debug\04.ExtFloat or Integer.pdb

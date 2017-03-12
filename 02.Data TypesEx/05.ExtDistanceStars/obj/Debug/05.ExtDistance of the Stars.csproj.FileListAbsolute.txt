@@ -1,6 +1,0 @@
-C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\05.ExtDistance of the Stars\bin\Debug\05.ExtDistance of the Stars.exe.config
-C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\05.ExtDistance of the Stars\bin\Debug\05.ExtDistance of the Stars.exe
-C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\05.ExtDistance of the Stars\bin\Debug\05.ExtDistance of the Stars.pdb
-C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\05.ExtDistance of the Stars\obj\Debug\05.ExtDistance of the Stars.csprojResolveAssemblyReference.cache
-C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\05.ExtDistance of the Stars\obj\Debug\05.ExtDistance of the Stars.exe
-C:\Users\kara4\Desktop\01.Data Types and Variables - Exercises\01.Data Types and Variables - Exercises\05.ExtDistance of the Stars\obj\Debug\05.ExtDistance of the Stars.pdb
