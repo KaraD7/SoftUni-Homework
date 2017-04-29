@@ -124,7 +124,7 @@
                 var participant = awardss.Keys;
                 var awards = awardss.Values;
 
-                Console.WriteLine($"{participant}:  {award.Count} awards");
+                Console.WriteLine($"{participant}:  {awardss.Count} awards");
 
                 foreach (var award in awards.OrderBy(a => a))
                 {
